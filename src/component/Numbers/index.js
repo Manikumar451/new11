@@ -18,5 +18,5 @@ export const Arithmetic=(props)=>{
     }
     return(
         <li className='number'><button className='num-btn' onClick={onClickBtn}>{arth}</button></li>
-    )
-    }
+    )
+    }
